@@ -1,8 +1,6 @@
 I'm Hiroshi Okajima. Associate proffesor @Kumamoto University. [ORCID](https://orcid.org/0000-0001-7621-7482), [Researchgate](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap](https://researchmap.jp/read0203288?lang=en)
 
-YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos)
-
-Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
+YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
 
 Reseach topics(Control Engineering)
 
