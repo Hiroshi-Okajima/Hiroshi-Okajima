@@ -2,7 +2,7 @@ I'm Hiroshi Okajima. Associate proffesor @Kumamoto University. [ORCID](https://o
 
 YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
 
-Reseach topics(Control Engineering)
+Reseach topics(Control Engineering) [research articles](https://sites.google.com/view/hiroshi-okajima/profile/research-achievements)
 
  1. [Model error compensator](https://sites.google.com/view/hiroshi-okajima/model-error-compensator)
 
