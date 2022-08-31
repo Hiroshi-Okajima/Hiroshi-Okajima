@@ -4,10 +4,14 @@ YouTube channel about control engineering: [YouTube:Control Engineeing Channel(5
 
 Reseach topics(Control Engineering)
 
-Model error compensator
+ 1. [Model error compensator](https://sites.google.com/view/hiroshi-okajima/model-error-compensator)
 
-Quantized control 
+ 2. [Quantized control(dynamic quantizer)](https://sites.google.com/view/hiroshi-okajima/dynamic-quantizer) 
 
-State estimation
+ 3. [State estimation](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702?src=recsys)
 
-Vehicle control
+ 4. Vehicle control
+
+Education topics(Control Engineering)
+
+ 1. [Linear Matrix Inequality](https://sites.google.com/view/hiroshi-okajima/linear-matrix-inequality)
