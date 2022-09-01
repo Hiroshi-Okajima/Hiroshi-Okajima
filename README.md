@@ -31,3 +31,5 @@ Education topics(Control Engineering)
 1: [Linear Matrix Inequality](https://sites.google.com/view/hiroshi-okajima/linear-matrix-inequality) (Education page)
 
    1. https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control_LMI MATLAB code
+
+2: [Control animation](https://github.com/Hiroshi-Okajima/MATLAB_animation) MATLAB code -> mp4
