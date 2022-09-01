@@ -5,8 +5,15 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers, japanese)](https:/
 Reseach topics(Control Engineering) [My research articles](https://sites.google.com/view/hiroshi-okajima/profile/research-achievements)
 
  1. [Model error compensator](https://sites.google.com/view/hiroshi-okajima/model-error-compensator)
+  1:https://github.com/Hiroshi-Okajima/MATLAB_MEC01
+  2:https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
+  3:https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC
+  4:https://github.com/Hiroshi-Okajima/MATLAB_MEC04_nonlinear
+  5:https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
+  
 
- 2. [Quantized control(dynamic quantizer)](https://sites.google.com/view/hiroshi-okajima/dynamic-quantizer) https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
+ 2. [Quantized control(dynamic quantizer)](https://sites.google.com/view/hiroshi-okajima/dynamic-quantizer) 
+  1: https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
 
  3. [State estimation](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702?src=recsys)
 
