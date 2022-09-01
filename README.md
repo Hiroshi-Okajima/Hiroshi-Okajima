@@ -4,7 +4,7 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers, japanese)](https:/
 
 Reseach topics(Control Engineering) [My research articles](https://sites.google.com/view/hiroshi-okajima/profile/research-achievements)
 
- 1. [Model error compensator](https://sites.google.com/view/hiroshi-okajima/model-error-compensator)
+ 1. [Model error compensator](https://sites.google.com/view/hiroshi-okajima/model-error-compensator) (Research page)
 
   1: https://github.com/Hiroshi-Okajima/MATLAB_MEC01
   
@@ -16,16 +16,16 @@ Reseach topics(Control Engineering) [My research articles](https://sites.google.
   
   5: https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
 
- 2. [Quantized control(dynamic quantizer)](https://sites.google.com/view/hiroshi-okajima/dynamic-quantizer) 
+ 2. [Quantized control(dynamic quantizer)](https://sites.google.com/view/hiroshi-okajima/dynamic-quantizer) (Research page)
 
   1: https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
 
- 3. [State estimation](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702?src=recsys)
+ 3. [State estimation](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702) (Article PDF)
 
   1: https://github.com/Hiroshi-Okajima/MATLAB_state_estimation
 
- 4. Vehicle control
+ 4. Vehicle control (Research)
 
 Education topics(Control Engineering)
 
- 1. [Linear Matrix Inequality](https://sites.google.com/view/hiroshi-okajima/linear-matrix-inequality)
+ 1. [Linear Matrix Inequality](https://sites.google.com/view/hiroshi-okajima/linear-matrix-inequality) (Education page)
