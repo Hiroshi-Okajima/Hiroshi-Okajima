@@ -36,4 +36,6 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers, japanese)](https:/
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control_LMI
 
-### 2: [Control animation](https://github.com/Hiroshi-Okajima/MATLAB_animation) MATLAB code -> mp4
+### 2: Control animation (MATLAB code -> mp4)
+
+  - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_animation
