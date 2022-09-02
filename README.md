@@ -10,7 +10,7 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers, japanese)](https:/
 
 ### 1: [Model error compensator](https://sites.google.com/view/hiroshi-okajima/model-error-compensator) (Research page)
 
-  - (MATLAB) MEC https://github.com/Hiroshi-Okajima/MATLAB_MEC01
+  - (MATLAB) Model error compensator (MEC) https://github.com/Hiroshi-Okajima/MATLAB_MEC01
   
   - (MATLAB) MEC with sensor noise https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
   
