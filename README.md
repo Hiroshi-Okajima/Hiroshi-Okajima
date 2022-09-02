@@ -1,4 +1,4 @@
-![無題](https://user-images.githubusercontent.com/112537733/188100709-3744ce3c-c8f9-4381-98cc-a743a72146e0.jpg)
+
 ## Profile:
 
 I'm an associate proffesor @Kumamoto University. [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482), [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en)
@@ -37,6 +37,9 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtu
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control_LMI
 
+　[![無題](https://user-images.githubusercontent.com/112537733/188101141-f86dee2e-ba6a-41c3-b223-e12b2da5aef6.png)](https://youtu.be/QfXJ01dIpL0)
+
 ### 2: Control animation (MATLAB code -> mp4)
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_animation
+
