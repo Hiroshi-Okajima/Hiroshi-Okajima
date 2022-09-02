@@ -4,27 +4,29 @@ I'm an associate proffesor @Kumamoto University. [ORCID](https://orcid.org/0000-
 
 YouTube: [YouTube:Control Engineeing Channel(5280subscribers, japanese)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
 
-Reseach topics(Control Engineering) [My research articles](https://sites.google.com/view/hiroshi-okajima/profile/research-achievements)
+## Reseach topics(Control Engineering) 
+
+[My research articles](https://sites.google.com/view/hiroshi-okajima/profile/research-achievements)
 
 1: [Model error compensator](https://sites.google.com/view/hiroshi-okajima/model-error-compensator) (Research page)
 
-  1. https://github.com/Hiroshi-Okajima/MATLAB_MEC01 MATLAB code
+  - (MATLAB) MEC https://github.com/Hiroshi-Okajima/MATLAB_MEC01
   
-  2. https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise MATLAB code
+  - (MATLAB) MEC with sensor noise https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
   
-  3. https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC MATLAB code
+  - (MATLAB) MEC with PFC https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC
   
-  4. https://github.com/Hiroshi-Okajima/MATLAB_MEC04_nonlinear MATLAB code
+  - (MATLAB) MEC for nonlinear system https://github.com/Hiroshi-Okajima/MATLAB_MEC04_nonlinear
   
-  5. https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter MATLAB code
+  - (MATLAB) Signal limitation filter https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
 
 2: [Quantized control(dynamic quantizer)](https://sites.google.com/view/hiroshi-okajima/dynamic-quantizer) (Research page)
 
-  1. https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01 MATLAB code
+  - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
 
 3: [State estimation](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702) (Article PDF)
 
-  1. https://github.com/Hiroshi-Okajima/MATLAB_state_estimation MATLAB code
+  - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_state_estimation 
 
 4: Vehicle control (Research)
 
