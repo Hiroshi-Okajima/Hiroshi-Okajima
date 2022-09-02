@@ -1,6 +1,6 @@
 ## Profile:
 
-I'm an associate proffesor @Kumamoto University. [ORCID](https://orcid.org/0000-0001-7621-7482), [Researchgate](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap](https://researchmap.jp/read0203288?lang=en)
+I'm an associate proffesor @Kumamoto University. [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482), [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en)
 
 YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
 
