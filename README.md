@@ -20,6 +20,8 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtu
   - (MATLAB) MEC for nonlinear system https://github.com/Hiroshi-Okajima/MATLAB_MEC04_nonlinear
   
   - (MATLAB) Signal limitation filter https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
+ 
+ [![Model Error Compensator](https://user-images.githubusercontent.com/112537733/188101796-e5bb2581-ab5b-4618-8380-e1d0a7320e71.png)](https://youtu.be/hYeekwsedAM)
 
 ### 2: Quantized control(dynamic quantizer) ([Research page](https://sites.google.com/view/hiroshi-okajima/dynamic-quantizer))
 
@@ -37,9 +39,10 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtu
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control_LMI
 
-　[![無題](https://user-images.githubusercontent.com/112537733/188101141-f86dee2e-ba6a-41c3-b223-e12b2da5aef6.png)](https://youtu.be/QfXJ01dIpL0)
+　[![Linear Matrix Inequality](https://user-images.githubusercontent.com/112537733/188101141-f86dee2e-ba6a-41c3-b223-e12b2da5aef6.png)](https://youtu.be/QfXJ01dIpL0)
 
 ### 2: Control animation (MATLAB code -> mp4)
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_animation
+
 
