@@ -34,6 +34,6 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers, japanese)](https:/
 
 ### 1: Linear Matrix Inequality ([Education page](https://sites.google.com/view/hiroshi-okajima/linear-matrix-inequality))
 
-   1. https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control_LMI MATLAB code
+  - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control_LMI
 
 ### 2: [Control animation](https://github.com/Hiroshi-Okajima/MATLAB_animation) MATLAB code -> mp4
