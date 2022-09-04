@@ -1,9 +1,13 @@
 
 ## Profile: 
 
+![無題](https://user-images.githubusercontent.com/112537733/188295349-9b613ccb-eff6-4f8e-a087-422c5a88fc74.jpg)
+
+Hiroshi Okajima (PhD, Assoc. Prof. at Japan)
+
 I'm an associate proffesor @Kumamoto University. [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482), [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en)
 
-YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
+YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch), Web page: [H. Okajima web page](https://sites.google.com/view/hiroshi-okajima)
 
 ## Reseach topics(Control Engineering) 
 
@@ -44,5 +48,4 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtu
 ### 2: Control animation (MATLAB code -> mp4)
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_animation
-
 
