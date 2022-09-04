@@ -49,3 +49,8 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan)
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_animation
 
+### 制御工学教育
+
+ - 伝達関数に基づく制御 https://github.com/Hiroshi-Okajima/control-education01-transferfunction
+ - 状態方程式に基づく制御 https://github.com/Hiroshi-Okajima/control-education02-stateequation
+ - 電気回路 https://github.com/Hiroshi-Okajima/circuits-education01
