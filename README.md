@@ -1,7 +1,7 @@
 
 ## Profile: 
 
-![無題](https://user-images.githubusercontent.com/112537733/188295349-9b613ccb-eff6-4f8e-a087-422c5a88fc74.jpg)
+![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
 Hiroshi Okajima (PhD, Assoc. Prof. at Japan)
 
