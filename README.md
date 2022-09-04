@@ -9,7 +9,7 @@ YouTube: [YouTube:Control Engineeing Channel(5280subscribers)](https://www.youtu
 
 Hiroshi Okajima (PhD, Assoc. Prof. at Japan)
 
-岡島 寛（熊本大学工学部情報電気工学科准教授）
+岡島 寛（熊本大学工学部情報電気工学科准教授）[日本語Webページ](https://sites.google.com/view/okajima-lab)
 
 ## Reseach topics(Control Engineering) 
 
