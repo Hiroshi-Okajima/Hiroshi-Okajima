@@ -13,7 +13,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan)
 
 [My research articles](https://sites.google.com/view/hiroshi-okajima/profile/research-achievements) (Paper and proc. of international conference)
 
-### 1: Model error compensator ([Research page](https://sites.google.com/view/hiroshi-okajima/model-error-compensator))
+### 1: Model error compensator ([Research page](https://sites.google.com/view/hiroshi-okajima/model-error-compensator), My main research topic)
 
   - (MATLAB) Model error compensator (MEC) https://github.com/Hiroshi-Okajima/MATLAB_MEC01
   
