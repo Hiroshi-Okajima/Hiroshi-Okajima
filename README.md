@@ -1,5 +1,5 @@
 
-## Profile:
+## Profile: 
 
 I'm an associate proffesor @Kumamoto University. [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482), [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en)
 
