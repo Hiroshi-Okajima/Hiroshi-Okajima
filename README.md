@@ -17,7 +17,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.googl
 
 ### 1: Model error compensator ([Research page of MEC](https://sites.google.com/view/hiroshi-okajima/model-error-compensator), My main research topic)
 
-  - (MATLAB) Model error compensator (MEC) https://github.com/Hiroshi-Okajima/MATLAB_MEC01
+  - (MATLAB) Model error compensator (MEC) https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
   
   - (MATLAB) MEC with sensor noise https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
   
