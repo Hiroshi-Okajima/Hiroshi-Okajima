@@ -45,7 +45,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.googl
 
 ### 1: Linear Matrix Inequality ([Education page](https://sites.google.com/view/hiroshi-okajima/linear-matrix-inequality))
 
-  - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control_LMI
+  - (MATLAB) https://github.com/Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control
 
 　[![Linear Matrix Inequality](https://user-images.githubusercontent.com/112537733/188101141-f86dee2e-ba6a-41c3-b223-e12b2da5aef6.png)](https://youtu.be/QfXJ01dIpL0)
 
