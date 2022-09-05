@@ -23,7 +23,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.googl
   
   - (MATLAB) MEC with PFC https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC
   
-  - (MATLAB) MEC for nonlinear system https://github.com/Hiroshi-Okajima/MATLAB_MEC04_nonlinear
+  - (MATLAB) MEC for nonlinear system https://github.com/Hiroshi-Okajima/non_linear_control_MATLAB_MEC04
   
   - (MATLAB) Signal limitation filter https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
  
