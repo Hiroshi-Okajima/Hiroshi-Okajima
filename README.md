@@ -13,9 +13,9 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.googl
 
 ## Reseach topics(Control Engineering) 
 
-[My research articles](https://sites.google.com/view/hiroshi-okajima/profile/research-achievements) (Paper and proc. of international conference)
+[My research articles](https://sites.google.com/view/control-engineering-lab/profile/research-achievements) (Paper and proc. of international conference)
 
-### 1: Model error compensator ([Research page of MEC](https://sites.google.com/view/hiroshi-okajima/model-error-compensator), My main research topic)
+### 1: Model error compensator ([Research page of MEC](https://sites.google.com/view/control-engineering-lab/model-error-compensator), My main research topic)
 
   - (MATLAB) Model error compensator (MEC) https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
   
@@ -29,7 +29,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.googl
  
  [![Model Error Compensator](https://user-images.githubusercontent.com/112537733/188101796-e5bb2581-ab5b-4618-8380-e1d0a7320e71.png)](https://youtu.be/hYeekwsedAM)
 
-### 2: Quantized control(dynamic quantizer) ([Research page of quantizer](https://sites.google.com/view/hiroshi-okajima/dynamic-quantizer))
+### 2: Quantized control(dynamic quantizer) ([Research page of quantizer](https://sites.google.com/view/control-engineering-lab/dynamic-quantizer))
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
 
@@ -43,7 +43,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.googl
 
 ## Education topics(Control Engineering)
 
-### 1: Linear Matrix Inequality ([Education page](https://sites.google.com/view/hiroshi-okajima/linear-matrix-inequality))
+### 1: Linear Matrix Inequality ([Education page](https://sites.google.com/view/control-engineering-lab/linear-matrix-inequality))
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control
 
