@@ -3,7 +3,7 @@
 
 I'm an associate proffesor @Kumamoto University. Research field: Control engineering, Control theory, [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482), [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en)
 
-YouTube: [Control Engineeing Channel(5280subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
+YouTube: [Control Engineeing Channel(7300subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
 
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
@@ -13,7 +13,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.googl
 
 ## Reseach topics(Control Engineering) 
 
-[My research articles](https://sites.google.com/view/control-engineering-lab/profile/research-achievements) (Paper and proc. of international conference)
+[My research articles](https://sites.google.com/view/okajima-lab/en/research-achievements) (Paper and proc. of international conference)
 
 ### 1: Model error compensator ([Research page of MEC](https://sites.google.com/view/control-engineering-lab/model-error-compensator), My main research topic)
 
