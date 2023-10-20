@@ -27,6 +27,8 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.googl
   
   - (MATLAB) Signal limitation filter https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
  
+  - (MATLAB) Vehicle control https://github.com/Hiroshi-Okajima/Vehicle_control_MEC05
+ 
  [![Model Error Compensator](https://user-images.githubusercontent.com/112537733/188101796-e5bb2581-ab5b-4618-8380-e1d0a7320e71.png)](https://youtu.be/hYeekwsedAM)
 
 ### 2: Quantized control(dynamic quantizer) ([Research page of quantizer](https://sites.google.com/view/control-engineering-lab/dynamic-quantizer))
