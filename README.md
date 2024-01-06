@@ -7,9 +7,10 @@ YouTube: [Control Engineeing Channel(7300subscribers)](https://www.youtube.com/c
 
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
-Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://sites.google.com/view/okajima-lab/en)
+Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control-theory.com/en)
 
-岡島 寛（熊本大学工学部情報電気工学科准教授）[日本語Webページ](https://sites.google.com/view/okajima-lab)
+岡島 寛（熊本大学工学部情報電気工学科准教授）[日本語Webページ](https://www.control-theory.com)
+https://sites.google.com/view/okajima-lab
 
 ## Reseach topics(Control Engineering) 
 
