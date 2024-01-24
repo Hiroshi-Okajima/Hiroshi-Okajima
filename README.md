@@ -15,9 +15,9 @@ https://sites.google.com/view/okajima-lab
 
 ## Reseach topics(Control Engineering) 
 
-[My research articles](https://sites.google.com/view/okajima-lab/en/research-achievements) (Paper and proc. of international conference)
+[My research articles](https://www.control-theory.com/en/research-achievements) (Paper and proc. of international conference)
 
-### 1: Model error compensator ([Research page of MEC](https://sites.google.com/view/control-engineering-lab/model-error-compensator), My main research topic)
+### 1: Model error compensator ([Research page of MEC](https://www.control-theory.com/en/rt-model-error-compensator), My main research topic)
 
   - (MATLAB) Model error compensator (MEC) https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
   
@@ -47,7 +47,7 @@ https://sites.google.com/view/okajima-lab
 
 ## Education topics(Control Engineering)
 
-### 1: Linear Matrix Inequality ([Education page](https://sites.google.com/view/control-engineering-lab/linear-matrix-inequality))
+### 1: Linear Matrix Inequality ([Education page](https://www.control-theory.com/en/et-linear-matrix-inequality))
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control
 
@@ -62,3 +62,5 @@ https://sites.google.com/view/okajima-lab
  - 伝達関数に基づく制御 https://github.com/Hiroshi-Okajima/control-education01-transferfunction
  - 状態方程式に基づく制御 https://github.com/Hiroshi-Okajima/control-education02-stateequation
  - 電気回路 https://github.com/Hiroshi-Okajima/circuits-education01
+ - 制御ポータル https://www.portal.control-theory.com
+ - 電気電子ポータル https://www.denki.control-theory.com
