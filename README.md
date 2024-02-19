@@ -11,8 +11,6 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
 
 岡島 寛（熊本大学工学部情報電気工学科准教授）[日本語Webページ](https://www.control-theory.com)
 
-https://sites.google.com/view/okajima-lab
-
 ## Reseach topics(Control Engineering) 
 
 [My research articles](https://www.control-theory.com/en/research-achievements) (Paper and proc. of international conference)
@@ -33,7 +31,7 @@ https://sites.google.com/view/okajima-lab
  
  [![Model Error Compensator](https://user-images.githubusercontent.com/112537733/188101796-e5bb2581-ab5b-4618-8380-e1d0a7320e71.png)](https://youtu.be/hYeekwsedAM)
 
-### 2: Quantized control(dynamic quantizer) ([Research page of quantizer](https://sites.google.com/view/control-engineering-lab/dynamic-quantizer))
+### 2: Quantized control(dynamic quantizer) ([Research page of quantizer](https://sites.google.com/view/deltasiguma))
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
 
