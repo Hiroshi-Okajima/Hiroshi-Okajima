@@ -60,5 +60,5 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
  - 伝達関数に基づく制御 https://github.com/Hiroshi-Okajima/control-education01-transferfunction
  - 状態方程式に基づく制御 https://github.com/Hiroshi-Okajima/control-education02-stateequation
  - 電気回路 https://github.com/Hiroshi-Okajima/circuits-education01
- - 制御ポータル https://www.portal.control-theory.com
- - 電気電子ポータル https://www.denki.control-theory.com
+ - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
+ - 電気電子チャンネル（動画200本の動画ポータルサイト） https://www.denki.control-theory.com
