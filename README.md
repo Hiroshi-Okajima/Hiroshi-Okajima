@@ -29,7 +29,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
  
   - (MATLAB) Vehicle control https://github.com/Hiroshi-Okajima/Vehicle_control_MEC05
  
-[YouTube: Explanation of Model Error Compensator](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
+[![サムネイル画像：英語](https://github.com/user-attachments/assets/f67ced19-8eb6-429b-befc-fb8baa442727)](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
 
 ### 2: Quantized control(dynamic quantizer) ([Research page of quantizer](https://sites.google.com/view/deltasiguma))
 
