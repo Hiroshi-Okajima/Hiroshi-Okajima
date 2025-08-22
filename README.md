@@ -19,31 +19,32 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
 
 [My research articles](https://www.control-theory.com/en/research-achievements) (Paper and proc. of international conference)
 
-### 1: Model error compensator，モデル誤差抑制補償器 ([Research page of MEC](https://www.control-theory.com/en/rt-model-error-compensator), My main research topic)
+## 1: Model error compensator，モデル誤差抑制補償器 ([Research page of MEC](https://www.control-theory.com/en/rt-model-error-compensator), My main research topic)
 
-  - (MATLAB) Model error compensator (MEC)
-    -- https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
+### (MATLAB) Model error compensator (MEC)
+ https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
 
-    -- [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Robust-control-MATLAB_MEC01)
+ [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Robust-control-MATLAB_MEC01)
 
-  
-  - (MATLAB) MEC with sensor noise https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
+### (MATLAB) MEC with sensor noise 
+
+https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC02_sensor_noise)
   
-  - (MATLAB) MEC with PFC https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC
+### (MATLAB) MEC with PFC https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC03_withPFC)
   
-  - (MATLAB) MEC for nonlinear system https://github.com/Hiroshi-Okajima/non_linear_control_MATLAB_MEC04
+### (MATLAB) MEC for nonlinear system https://github.com/Hiroshi-Okajima/non_linear_control_MATLAB_MEC04
   
   [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/non_linear_control_MATLAB_MEC04)
   
-  - (MATLAB) Signal limitation filter https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
+### (MATLAB) Signal limitation filter https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter)
  
-  - (MATLAB) Vehicle control https://github.com/Hiroshi-Okajima/Vehicle_control_MEC05
+### (MATLAB) Vehicle control https://github.com/Hiroshi-Okajima/Vehicle_control_MEC05
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Vehicle_control_MEC05)
  
@@ -53,13 +54,13 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
   
-    [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01)
+  - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01)
 
 ### 3: State estimation ([Article PDF](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702))
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_state_estimation
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_state_estimation)
+- [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_state_estimation)
 
 ### 4: Vehicle control (Research)
 
