@@ -19,7 +19,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
 
   - (MATLAB) Model error compensator (MEC) https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
 
-　[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Robust-control-MATLAB_MEC01)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Robust-control-MATLAB_MEC01)
   
   - (MATLAB) MEC with sensor noise https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
 
@@ -66,8 +66,11 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
 ### 制御工学教育
 
  - 伝達関数に基づく制御 https://github.com/Hiroshi-Okajima/control-education01-transferfunction
+   
    [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education01-transferfunction)
+   
  - 状態方程式に基づく制御 https://github.com/Hiroshi-Okajima/control-education02-stateequation
+   
    [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education02-stateequation)
  - 電気回路 https://github.com/Hiroshi-Okajima/circuits-education01
  - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
