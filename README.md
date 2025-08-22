@@ -84,7 +84,10 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
 
 ### 2: Control animation (MATLAB code -> mp4)
 
-  - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_animation
+ - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_animation
+   
+- [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_animation)
+
 
 ## 制御工学教育
 
