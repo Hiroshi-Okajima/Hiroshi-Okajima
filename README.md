@@ -83,15 +83,20 @@ Dynamic quantizer is a sophisticated signal processing component implemented as 
 
   - See my web page
 
-## Education topics(Control Engineering)
+## Education topics about Control Engineering
 
-### 1: Linear Matrix Inequality ([Education page](https://www.control-theory.com/en/et-linear-matrix-inequality))
+### 1: Linear Matrix Inequality 
+
+- Page: [Education page](https://www.control-theory.com/en/et-linear-matrix-inequality)
+- YouTube: [Linear Matrix Inequalities](https://youtu.be/gJT_rudgnSY?si=mrtiYnEakJWn8Y14)
+
+　[![Linear Matrix Inequality](https://user-images.githubusercontent.com/112537733/188101141-f86dee2e-ba6a-41c3-b223-e12b2da5aef6.png)](https://youtu.be/gJT_rudgnSY?si=mrtiYnEakJWn8Y14)
 
   - (MATLAB) https://github.com/Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control)
 
-　[![Linear Matrix Inequality](https://user-images.githubusercontent.com/112537733/188101141-f86dee2e-ba6a-41c3-b223-e12b2da5aef6.png)](https://youtu.be/QfXJ01dIpL0)
+
 
 ### 2: Control animation (MATLAB code -> mp4)
 
