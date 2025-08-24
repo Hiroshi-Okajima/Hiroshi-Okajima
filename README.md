@@ -10,9 +10,9 @@ I'm an associate proffesor at Kumamoto University, Japan (熊本大学). Researc
 
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
-Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control-theory.com/en)
+Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Okajima Lab., Web page(Eng)](https://www.control-theory.com/en)
 
-岡島 寛（熊本大学工学部情報電気工学科准教授）[日本語Webページ](https://www.control-theory.com)
+岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
 
 ## 制御工学ブログ
 
