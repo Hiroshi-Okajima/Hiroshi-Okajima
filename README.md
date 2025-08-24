@@ -75,6 +75,8 @@ Dynamic quantizer is a sophisticated signal processing component implemented as 
 
 ## 3: State estimation ([Article PDF](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702))
 
+This research proposes an MCV (Median of Candidate Vectors) observer to address state estimation degradation caused by outliers in sensor outputs. The method generates multiple state estimation candidates from different time instances and selects the optimal candidate using median operations, assuming outliers occur infrequently. Observer gains are designed using Lyapunov inequalities and LMIs, with weighted median extensions for enhanced performance.
+
   - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_state_estimation
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_state_estimation)
