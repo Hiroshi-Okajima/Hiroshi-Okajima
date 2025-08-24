@@ -109,19 +109,13 @@ This research proposes an MCV (Median of Candidate Vectors) observer to address 
 ### E2: Control animation (MATLAB code -> mp4)
 
  - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_animation
-   
-- [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_animation)
 
   ### E3: Transfer function based control 
   - (Video Links for Japanese students in GitHub) https://github.com/Hiroshi-Okajima/control-education01-transferfunction
-
-  - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education01-transferfunction)
    
  ### E4: State-space model based control
  - (Video Links for Japanese students in GitHub) https://github.com/Hiroshi-Okajima/control-education02-stateequation
 
- - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education02-stateequation)
-   
 ### E5: Circuits
  - (Video Links for Japanese students in GitHub) https://github.com/Hiroshi-Okajima/circuits-education01
  ### E6: Other topics
