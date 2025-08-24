@@ -1,7 +1,7 @@
 
 ## Profile: 
 
-I'm an associate proffesor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory, [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482), [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en)
+I'm an associate proffesor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory, [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en), [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482)
 
 YouTube: [Control Engineeing Channel(10000subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
 
