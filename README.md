@@ -2,7 +2,7 @@
 
 I'm an associate proffesor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory, [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en), [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482)
 
-YouTube: [Control Engineeing Channel(10000subscribers)](https://www.youtube.com/c/ControlEngineeringChannel/videos), Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
+YouTube: [Control Engineeing Channel(10000subscribers, Japanese)](https://www.youtube.com/c/ControlEngineeringChannel/videos), [Control Engineeing Channel 2(300subscribers, English)](https://www.youtube.com/@ControlEngineeringCh/videos) Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
 
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
@@ -55,7 +55,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
 
 ### Video Link
 
-[YouTube: Model Error Compensator](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
+[YouTube: Model Error Compensator](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e) 14min, English
  
 [![MEC](https://github.com/user-attachments/assets/1b70efcd-2898-47f0-8ccb-493d5baf186d)](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
 
