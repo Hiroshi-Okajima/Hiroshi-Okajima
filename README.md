@@ -1,4 +1,4 @@
-[English](https://github.com/Hiroshi-Okajima), [日本語，JP](https://github.com/Hiroshi-Okajima)
+[English](https://github.com/Hiroshi-Okajima), [日本語JP](https://github.com/Hiroshi-Okajima)
 
 ## Profile: 
 
