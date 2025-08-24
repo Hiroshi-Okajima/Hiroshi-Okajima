@@ -89,7 +89,7 @@ This research proposes an MCV (Median of Candidate Vectors) observer to address 
 
 ### E1: Linear Matrix Inequality 
 
-- Page: [Education page](https://www.control-theory.com/en/et-linear-matrix-inequality)
+- Page: [Education page of LMIs](https://www.control-theory.com/en/et-linear-matrix-inequality)
 - YouTube: [Linear Matrix Inequalities](https://youtu.be/gJT_rudgnSY?si=mrtiYnEakJWn8Y14)
 
 　[![Linear Matrix Inequality](https://user-images.githubusercontent.com/112537733/188101141-f86dee2e-ba6a-41c3-b223-e12b2da5aef6.png)](https://youtu.be/gJT_rudgnSY?si=mrtiYnEakJWn8Y14)
@@ -97,8 +97,6 @@ This research proposes an MCV (Median of Candidate Vectors) observer to address 
   - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control)
-
-
 
 ### E2: Control animation (MATLAB code -> mp4)
 
