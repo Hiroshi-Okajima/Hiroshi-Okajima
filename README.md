@@ -83,7 +83,7 @@ This research proposes an MCV (Median of Candidate Vectors) observer to address 
 
 ## 4: Vehicle control (Research)
 
-  - See my web page
+  - See my web page https://www.control-theory.com/en/rt-vehicle-control
 
 ## Education topics about Control Engineering
 
