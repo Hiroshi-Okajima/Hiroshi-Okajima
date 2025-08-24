@@ -1,5 +1,7 @@
 [English](https://github.com/Hiroshi-Okajima), [日本語JP](https://github.com/Hiroshi-Okajima/Profile-Japanese)
 
+# Okajima Laboratory
+
 ## Profile: 
 
 I'm an associate proffesor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory, [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en), [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482)
@@ -17,7 +19,6 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Okajima Lab., Web page(Eng)](https
 Paper and proc. of international conference: [My research articles](https://www.control-theory.com/en/research-achievements) 
 
 岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
-
 
 ## 1: Model error compensator，モデル誤差抑制補償器 ([Research page of MEC](https://www.control-theory.com/en/rt-model-error-compensator), My main research topic)
 
@@ -92,22 +93,19 @@ Paper and proc. of international conference: [My research articles](https://www.
    
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_animation)
 
-
-## 制御工学教育
-
- ### 伝達関数に基づく制御 
+  ### 3: Transfer function based control 
   - https://github.com/Hiroshi-Okajima/control-education01-transferfunction
 
   - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education01-transferfunction)
    
- ### 状態方程式に基づく制御 
+ ### 4: State-space model based control
  - https://github.com/Hiroshi-Okajima/control-education02-stateequation
 
  - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education02-stateequation)
    
-### 電気回路 
+### 5: Circuits
  - https://github.com/Hiroshi-Okajima/circuits-education01
- ### その他
+ ### 6: Other topics
  - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
  - 電気電子チャンネル（動画200本の動画ポータルサイト） https://www.denki.control-theory.com
  - ブログ: [制御工学ブログ](https://blog.control-theory.com)
