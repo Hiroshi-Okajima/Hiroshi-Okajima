@@ -115,8 +115,18 @@ This research proposes an MCV (Median of Candidate Vectors) observer to address 
   ### E3: Transfer function based control 
   - (Video Links for Japanese students in GitHub) https://github.com/Hiroshi-Okajima/control-education01-transferfunction
    
+
+ - (MATLAB Livescript codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-/tree/main
+
+  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
+
+   
  ### E4: State-space model based control
  - (Video Links for Japanese students in GitHub) https://github.com/Hiroshi-Okajima/control-education02-stateequation
+
+ - (MATLAB Livescript codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-/tree/main
+
+  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
 
 ### E5: Circuits
  - (Video Links for Japanese students in GitHub) https://github.com/Hiroshi-Okajima/circuits-education01
