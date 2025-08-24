@@ -4,7 +4,7 @@
 
 ## Profile: 
 
-Associate proffesor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory, 
+Associate proffesor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory
 
 - [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en), [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482)
 
