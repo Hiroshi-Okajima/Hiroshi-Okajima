@@ -85,7 +85,7 @@ Dynamic quantizer is a sophisticated signal processing component implemented as 
 
 ## Education topics about Control Engineering
 
-### 1: Linear Matrix Inequality 
+### E1: Linear Matrix Inequality 
 
 - Page: [Education page](https://www.control-theory.com/en/et-linear-matrix-inequality)
 - YouTube: [Linear Matrix Inequalities](https://youtu.be/gJT_rudgnSY?si=mrtiYnEakJWn8Y14)
@@ -98,25 +98,25 @@ Dynamic quantizer is a sophisticated signal processing component implemented as 
 
 
 
-### 2: Control animation (MATLAB code -> mp4)
+### E2: Control animation (MATLAB code -> mp4)
 
  - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_animation
    
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_animation)
 
-  ### 3: Transfer function based control 
+  ### E3: Transfer function based control 
   - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/control-education01-transferfunction
 
   - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education01-transferfunction)
    
- ### 4: State-space model based control
+ ### E4: State-space model based control
  - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/control-education02-stateequation
 
  - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education02-stateequation)
    
-### 5: Circuits
+### E5: Circuits
  - (Python codes in GitHub) https://github.com/Hiroshi-Okajima/circuits-education01
- ### 6: Other topics
+ ### E6: Other topics
  - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
  - 電気電子チャンネル（動画200本の動画ポータルサイト） https://www.denki.control-theory.com
  - ブログ: [制御工学ブログ](https://blog.control-theory.com)
