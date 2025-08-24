@@ -67,7 +67,7 @@ Paper and proc. of international conference: [My research articles](https://www.
 
 Dynamic quantizer is a sophisticated signal processing component implemented as a linear difference equation that converts continuous-valued control signals into discrete-valued inputs for digital systems. Unlike static quantizers that operate instantaneously, dynamic quantizers maintain internal states and utilize temporal information to achieve optimal approximation of the desired continuous system behavior. These quantizers are particularly valuable in delta-sigma modulation architectures, where they leverage oversampling and noise shaping techniques to push quantization errors to higher frequencies. The optimal design of such quantizers is crucial for achieving effective system performance in discrete-valued input applications.
 
-[Research page of quantizer](https://www.control-theory.com/en/rt-dynamic-quantizer)
+- Page [Research page of quantizer](https://www.control-theory.com/en/rt-dynamic-quantizer)
 
   -  https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
   
