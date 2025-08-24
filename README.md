@@ -55,7 +55,7 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Web page(Eng)](https://www.control
 
 ### Video Link
 
-[YouTube: Model Error Compensator](https://github.com/user-attachments/assets/1b70efcd-2898-47f0-8ccb-493d5baf186d)](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
+[YouTube: Model Error Compensator](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
  
 [![MEC](https://github.com/user-attachments/assets/1b70efcd-2898-47f0-8ccb-493d5baf186d)](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
 
