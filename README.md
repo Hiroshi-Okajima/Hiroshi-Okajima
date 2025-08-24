@@ -63,7 +63,11 @@ Paper and proc. of international conference: [My research articles](https://www.
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Vehicle_control_MEC05)
 
-## 2: Quantized control(dynamic quantizer) ([Research page of quantizer](https://sites.google.com/view/deltasiguma))
+## 2: Quantized control(dynamic quantizer, Delta-sigma modulator)
+
+Dynamic quantizer is a sophisticated signal processing component implemented as a linear difference equation that converts continuous-valued control signals into discrete-valued inputs for digital systems. Unlike static quantizers that operate instantaneously, dynamic quantizers maintain internal states and utilize temporal information to achieve optimal approximation of the desired continuous system behavior. These quantizers are particularly valuable in delta-sigma modulation architectures, where they leverage oversampling and noise shaping techniques to push quantization errors to higher frequencies. The optimal design of such quantizers is crucial for achieving effective system performance in discrete-valued input applications.
+
+[Research page of quantizer](https://www.control-theory.com/en/rt-dynamic-quantizer)
 
   -  https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
   
