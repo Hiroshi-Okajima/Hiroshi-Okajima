@@ -32,36 +32,36 @@ Paper and proc. of international conference: [My research articles](https://www.
  
 [![MEC](https://github.com/user-attachments/assets/1b70efcd-2898-47f0-8ccb-493d5baf186d)](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
 
-### Model error compensator (MEC)
+### 1-1 Model error compensator (MEC)
  - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
 
  - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Robust-control-MATLAB_MEC01)
 
  - (Google Colab codes in GitHub) https://github.com/Hiroshi-Okajima/python-google-colab/tree/main
 
-### (MATLAB) MEC with sensor noise 
+### 1-2 MEC with sensor noise 
 
 - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC02_sensor_noise)
   
-### (MATLAB) MEC with PFC 
+### 1-3 MEC with PFC to overcome NMP zeros 
 - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC03_withPFC)
   
-### (MATLAB) MEC for nonlinear system 
+### 1-4 MEC for nonlinear system 
 
 - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/non_linear_control_MATLAB_MEC04
   
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/non_linear_control_MATLAB_MEC04)
   
-### (MATLAB) Signal limitation filter 
+### 1-5 Signal limitation filter 
 - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter)
  
-### (MATLAB) Vehicle control 
+### 1-6 Robust Vehicle control 
 
 - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/Vehicle_control_MEC05
 
