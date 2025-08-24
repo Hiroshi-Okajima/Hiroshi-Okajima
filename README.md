@@ -83,7 +83,13 @@ This research proposes an MCV (Median of Candidate Vectors) observer to address 
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_state_estimation)
 
-## 4: Vehicle control (Research)
+## 4: Multi-rate system control based on cyclic reformulation 
+
+- Page [Research page of multi-rate control](https://www.control-theory.com/en/rt-multi-rate-system)
+
+- https://codeocean.com/capsule/3611894/tree/v1
+
+## 5: Vehicle control (Research)
 
   - See my web page https://www.control-theory.com/en/rt-vehicle-control
 
