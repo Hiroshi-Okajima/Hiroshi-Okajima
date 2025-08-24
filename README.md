@@ -14,15 +14,10 @@ I'm an associate proffesor at Kumamoto University, Japan (熊本大学). Researc
 
 Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Okajima Lab., Web page(Eng)](https://www.control-theory.com/en)
 
+Paper and proc. of international conference: [My research articles](https://www.control-theory.com/en/research-achievements) 
+
 岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
 
-## 制御工学ブログ
-
-[制御工学ブログへのリンク](https://blog.control-theory.com)
-
-## Reseach topics(Control Engineering) 
-
-[My research articles](https://www.control-theory.com/en/research-achievements) (Paper and proc. of international conference)
 
 ## 1: Model error compensator，モデル誤差抑制補償器 ([Research page of MEC](https://www.control-theory.com/en/rt-model-error-compensator), My main research topic)
 
@@ -115,3 +110,4 @@ Hiroshi Okajima (PhD, Assoc. Prof. at Japan) [Okajima Lab., Web page(Eng)](https
  ### その他
  - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
  - 電気電子チャンネル（動画200本の動画ポータルサイト） https://www.denki.control-theory.com
+ - ブログ: [制御工学ブログ](https://blog.control-theory.com)
