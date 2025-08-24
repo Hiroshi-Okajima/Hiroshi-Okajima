@@ -2,7 +2,11 @@
 
 I'm an associate proffesor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory, [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en), [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482)
 
-YouTube: [Control Engineeing Channel(10000subscribers, Japanese)](https://www.youtube.com/c/ControlEngineeringChannel/videos), YouTube2: [Control Engineeing Channel 2(300subscribers, English)](https://www.youtube.com/@ControlEngineeringCh/videos) Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
+YouTube: [Control Engineeing Channel(10000subscribers, Japanese)](https://www.youtube.com/c/ControlEngineeringChannel/videos)
+
+YouTube2: [Control Engineeing Channel 2(300subscribers, English)](https://www.youtube.com/@ControlEngineeringCh/videos)
+
+Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
 
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
