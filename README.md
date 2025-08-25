@@ -134,3 +134,4 @@ This research proposes an MCV (Median of Candidate Vectors) observer to address 
  - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
  - 電気電子チャンネル（動画200本の動画ポータルサイト） https://www.denki.control-theory.com
  - ブログ: [制御工学ブログ](https://blog.control-theory.com)
+ - 制御スクラッチ：[OKJ1980](https://scratch.mit.edu/users/OKJ1980/)
