@@ -26,11 +26,11 @@ Paper and proc. of international conference: [My research articles](https://www.
 
 "Model Error Compensator" is a method for adding robustness to existing control systems. A structure of "model error compensator" was proposed by us, and it has been applied to various control systems. The control objective of the model error compensator (MEC) is to minimize as much as possible the effect of the model error and the disturbance in the meaning of the input-output relation. This compensator has a simple form and is easy to apply to various types of existing control systems, such as non-linear systems, control systems with time delay, non-minimum phase systems, MIMO systems, and so on. Various types of control schemes, such as the model predictive control, can be used together with the model error compensator and can achieve good robust performance. 
 
+<img width="713" height="614" alt="image" src="https://github.com/user-attachments/assets/229323a7-5bc6-433f-9af8-4a2046132639" />
+
 - Page: [Research page of MEC](https://www.control-theory.com/en/rt-model-error-compensator)
 
 - [YouTube: Model Error Compensator](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e) 14min, English
- 
-[![MEC](https://github.com/user-attachments/assets/1b70efcd-2898-47f0-8ccb-493d5baf186d)](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
 
 ### 1-1 Model error compensator (MEC)
  - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
