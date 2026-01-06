@@ -12,7 +12,7 @@ Associate proffesor at Kumamoto University, Japan (熊本大学). Research field
 
 - YouTube2: [Control Engineeing Channel 2(300subscribers, English)](https://www.youtube.com/@ControlEngineeringCh/videos)
 
-- Twitter: [@control_eng_ch](https://twitter.com/control_eng_ch)
+- X: [@control_eng_ch](https://x.com/control_eng_ch)
 
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
