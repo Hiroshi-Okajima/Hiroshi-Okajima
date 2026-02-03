@@ -93,6 +93,8 @@ This research proposes an MCV (Median of Candidate Vectors) observer to address 
 
 - https://codeocean.com/capsule/3611894/tree/v1
 
+- [Multirate Steady-State Kalman Filter](https://github.com/Hiroshi-Okajima/multirate-kalman-filter)
+
 ## 5: Vehicle control (Research)
 
   - See my web page https://www.control-theory.com/en/rt-vehicle-control
