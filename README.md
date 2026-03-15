@@ -23,7 +23,7 @@ These hub articles provide comprehensive overviews of each research area, linkin
 
 | Topic | Blog Hub Article | GitHub Repository |
 |-------|-----------------|-------------------|
-| **State Feedback Control** | [State Feedback Control and State-Space Design: A Comprehensive Guide](https://blog.control-theory.com/entry/state-feedback-control-eng) | See E4 repositories below |
+| **State Feedback Control** | [State Feedback Control and State-Space Design: A Comprehensive Guide](https://blog.control-theory.com/entry/state-feedback-control-eng) | [control_state_feedback](https://github.com/Hiroshi-Okajima/control_state_feedback) |
 | **System Identification** | [System Identification: From Data to Dynamical Models](https://blog.control-theory.com/entry/system-identification) | [MATLAB_system_identification](https://github.com/Hiroshi-Okajima/MATLAB_system_identification) |
 | **State Observer** | [State Observer and State Estimation: A Comprehensive Guide](https://blog.control-theory.com/entry/state-observer-estimation) | [MATLAB_state_observer](https://github.com/Hiroshi-Okajima/MATLAB_state_observer) |
 | **Model Error Compensator** | [Model Error Compensator (MEC): Enhance the Robustness of Existing Control Systems](https://blog.control-theory.com/entry/model-error-compensator-eng) | See MEC repositories below |
@@ -141,6 +141,7 @@ Application of control theory to vehicle dynamics, including direct yaw-moment c
 
 ### E4: State-space model based control
  - Blog hub: [State Feedback Control and State-Space Design: A Comprehensive Guide](https://blog.control-theory.com/entry/state-feedback-control-eng)
+ - **(MATLAB / Python) https://github.com/Hiroshi-Okajima/control_state_feedback** — State feedback, pole placement, LQR, observer-based control codes
  - (Video links for Japanese students) https://github.com/Hiroshi-Okajima/control-education02-stateequation
  - (MATLAB Livescript) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-/tree/main
  - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
