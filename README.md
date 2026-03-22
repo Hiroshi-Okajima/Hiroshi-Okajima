@@ -14,7 +14,7 @@ Associate Professor at Kumamoto University, Japan (熊本大学). Research field
 - Paper and proceedings: [My research articles](https://www.control-theory.com/en/publications)
 
 ![okajima](https://github.com/user-attachments/assets/a515d3cc-00bc-48fc-a72f-8ae565d7fd35)
-
+<img src="images/profile.jpg" width="200" style="border-radius:50%;">
 
 ---
 
