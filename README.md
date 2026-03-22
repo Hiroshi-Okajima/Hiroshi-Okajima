@@ -13,7 +13,8 @@ Associate Professor at Kumamoto University, Japan (熊本大学). Research field
 - MATLAB File Exchange: [H. Okajima](https://www.mathworks.com/matlabcentral/fileexchange/?q=profileid%3A12980078)
 - Paper and proceedings: [My research articles](https://www.control-theory.com/en/publications)
 
-![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
+![okajima](https://github.com/user-attachments/assets/a515d3cc-00bc-48fc-a72f-8ae565d7fd35)
+
 
 ---
 
