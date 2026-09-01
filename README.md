@@ -4,7 +4,7 @@
 
 ## Profile
 
-Associate Professor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory — 20 years of research experience.
+Professor at Kumamoto University, Japan (熊本大学). Research field: Control engineering, Control theory — 20 years of research experience.
 
 - Web: [www.control-theory.com](https://www.control-theory.com/en) | Blog: [blog.control-theory.com](https://blog.control-theory.com/)
 - [Researchgate](https://www.researchgate.net/profile/Hiroshi-Okajima) | [Researchmap](https://researchmap.jp/read0203288?lang=en) | [ORCID](https://orcid.org/0000-0001-7621-7482) | [Google Scholar](https://scholar.google.co.jp/citations?user=UEMk-g4AAAAJ)
